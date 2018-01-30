@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  TabBarController.h
 //  Demo
 //
 //  Created by 淼视觉 on 2017/9/8.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface TabBarController : UITabBarController
 
 @end
-
